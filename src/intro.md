@@ -7,6 +7,7 @@ cover: /assets/images/intro_banner.jpg
 
 <!-- more -->
 
+
 ## 站点未来完善的设计思路
 
 我想做的是这样的，主要分为几大类：
@@ -53,7 +54,7 @@ cover: /assets/images/intro_banner.jpg
 
   ```component VPCard
   title: cpdd
-  desc: 王者代练6年经验，曾经获得过全国射手排行榜第一
+  desc: 打架是获取胜利风险最高的方式
   logo: logo.png
   background: rgba(255, 244, 31, 0.15)
   ```

@@ -1,11 +1,13 @@
 ---
 title: 心性
 index: false
-icon: laptop-code
+icon: face-meh
 category:
   - 心性
 ---
 
 <!-- more -->
+
+![](/assets/images/dao_banner.jpg)
 
 <Catalog />
