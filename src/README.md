@@ -6,7 +6,7 @@ title: 阳光下の少年
 heroImage: https://s16-imfile-sg.feishucdn.com/static-resource/avatar/v3_00sk_b917ac0b-253d-4912-9657-6cf75a02d1ix_128.webp
 heroText: 阳光下の少年
 heroFullScreen: true
-tagline: 多行善事，比成正果
+tagline: 多行善事，必成正果
 bgImage: /assets/images/bg_light.jpg
 bgImageDark: /assets/images/bg_dark.jpg
 # projects:
