@@ -1,6 +1,6 @@
 ---
 icon: circle-info
-cover: /assets/images/intro_banner.jpg
+cover: https://pic1.imgdb.cn/item/6a2b9e7bc3d435497c268480.jpg
 ---
 
 # 站点介绍
@@ -53,8 +53,9 @@ cover: /assets/images/intro_banner.jpg
   ```
 
   ```component VPCard
-  title: cpdd
+  title: 虎牙直播诩叶
   desc: 打架是获取胜利风险最高的方式
-  logo: logo.png
+  logo: https://pic1.imgdb.cn/item/6a2ba368c3d435497c26be39.jpg
+  link: https://pic1.imgdb.cn/item/6a2ba229c3d435497c26bd34.jpg
   background: rgba(255, 244, 31, 0.15)
   ```

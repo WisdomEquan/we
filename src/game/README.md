@@ -9,7 +9,7 @@ category:
 
 <!-- more -->
 
-![](/assets/images/gamebanner.jpg)
+![game_banner](https://pic1.imgdb.cn/item/6a2b9e4bc3d435497c26845b.jpg)
 
 <Catalog />
 

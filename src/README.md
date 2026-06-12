@@ -7,8 +7,8 @@ heroImage: https://s16-imfile-sg.feishucdn.com/static-resource/avatar/v3_00sk_b9
 heroText: 阳光下の少年
 heroFullScreen: true
 tagline: 多行善事，必成正果
-bgImage: /assets/images/bg_light.jpg
-bgImageDark: /assets/images/bg_dark.jpg
+bgImage: https://pic1.imgdb.cn/item/6a2b9e4bc3d435497c26845c.jpg
+bgImageDark: https://pic1.imgdb.cn/item/6a2b9e4bc3d435497c268458.jpg
 # projects:
 #   - icon: folder-open
 #     name: 项目名称

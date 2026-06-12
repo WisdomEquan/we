@@ -8,6 +8,6 @@ category:
 
 <!-- more -->
 
-![](/assets/images/divination_banner.jpg)
+![divination_banner](https://pic1.imgdb.cn/item/6a2b9e4cc3d435497c26845e.jpg)
 
 <Catalog />

@@ -8,6 +8,6 @@ category:
 
 <!-- more -->
 
-![](/assets/images/dao_banner.jpg)
+![dao_banner](https://pic1.imgdb.cn/item/6a2b9e4cc3d435497c26845d.jpg)
 
 <Catalog />
