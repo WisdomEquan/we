@@ -2,10 +2,10 @@ import { navbar } from "vuepress-theme-hope";
 
 export default navbar([
   "/",
-  "/game/",
-  "/programme/",
-  "/divination/",
-  "/dao/",
+  "/游戏/",
+  "/编程/",
+  "/占卜/",
+  "/心性/",
   // "/demo/",
   // {
   //   text: "文档",
